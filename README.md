@@ -20,4 +20,4 @@ O Crachá virtual DoWhile é uma aplicação estática com o objetivo de mostrar
 
 Esta é a versão mobile
 
-- Link: https://vpmoura.github.io/Cracha-virtual-DoWhile/
+- Link: https://vpmoura.github.io/Cracha-virtual-DoWhile-mobile-version/
